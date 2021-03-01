@@ -1,4 +1,4 @@
-package com.interview.javabasic.jvm.gc;
+package com.tuyrk.jvm.gc;
 
 public class ReferenceCounterProblem {
     public static void main(String[] args) {

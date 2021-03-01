@@ -1,4 +1,4 @@
-package com.interview.javabasic.jvm.gc;
+package com.tuyrk.jvm.gc;
 
 public class NormalObject {
     public String name;

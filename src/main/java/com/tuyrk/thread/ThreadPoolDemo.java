@@ -1,4 +1,4 @@
-package com.interview.javabasic.thread;
+package com.tuyrk.thread;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

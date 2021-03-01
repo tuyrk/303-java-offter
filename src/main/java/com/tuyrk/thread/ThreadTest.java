@@ -1,4 +1,4 @@
-package com.interview.javabasic.thread;
+package com.tuyrk.thread;
 
 public class ThreadTest {
     private static void attack() {

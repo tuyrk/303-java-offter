@@ -1,4 +1,4 @@
-package com.interview.javabasic.thread;
+package com.tuyrk.thread;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

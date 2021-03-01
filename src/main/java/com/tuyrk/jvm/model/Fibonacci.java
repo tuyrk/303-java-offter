@@ -1,4 +1,4 @@
-package com.interview.javabasic.jvm.model;
+package com.tuyrk.jvm.model;
 
 public class Fibonacci {
     //F(0)=0,F(1)=1,当n>=2的时候，F(n) = F(n-1) + F(n-2),

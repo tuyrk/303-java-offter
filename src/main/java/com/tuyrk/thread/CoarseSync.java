@@ -1,4 +1,4 @@
-package com.interview.javabasic.thread;
+package com.tuyrk.thread;
 
 public class CoarseSync {
     public static String copyString100Times(String target){

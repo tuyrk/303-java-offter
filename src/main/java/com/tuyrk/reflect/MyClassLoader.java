@@ -1,4 +1,4 @@
-package com.interview.javabasic.reflect;
+package com.tuyrk.reflect;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

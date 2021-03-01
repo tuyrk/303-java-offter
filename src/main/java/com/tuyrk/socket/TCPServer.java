@@ -1,4 +1,4 @@
-package com.interview.javabasic.socket;
+package com.tuyrk.socket;
 
 import com.interview.javabasic.thread.MyThread;
 

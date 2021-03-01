@@ -1,4 +1,4 @@
-package com.interview.javabasic.thread;
+package com.tuyrk.thread;
 
 public class RunnableDemo {
     public static void main(String[] args) throws InterruptedException {

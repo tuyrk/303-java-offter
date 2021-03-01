@@ -1,4 +1,4 @@
-package com.interview.javabasic.thread;
+package com.tuyrk.thread;
 
 public class StringBufferWithoutSync {
     public void add(String str1, String str2) {

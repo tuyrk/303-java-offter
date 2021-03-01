@@ -1,4 +1,4 @@
-package com.interview.javabasic.reflect;
+package com.tuyrk.reflect;
 
 public class LoadDifference {
     public static void main(String[] args) throws ClassNotFoundException {

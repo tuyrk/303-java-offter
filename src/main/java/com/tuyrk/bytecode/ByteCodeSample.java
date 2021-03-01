@@ -1,4 +1,4 @@
-package com.interview.javabasic.bytecode;
+package com.tuyrk.bytecode;
 
 public class ByteCodeSample {
     public static void main(String[] args) {

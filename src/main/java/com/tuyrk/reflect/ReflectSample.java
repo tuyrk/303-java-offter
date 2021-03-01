@@ -1,4 +1,4 @@
-package com.interview.javabasic.reflect;
+package com.tuyrk.reflect;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

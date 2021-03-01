@@ -1,4 +1,4 @@
-package com.interview.javabasic.thread;
+package com.tuyrk.thread;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
